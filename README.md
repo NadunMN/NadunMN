@@ -30,17 +30,10 @@ I am Nadun Madusanka, a passionate developer with a keen interest in front-end t
 
 ## 📫 How to Reach Me
 
-- [Email](mailto:your-email@example.com)
+- [Email](mailto:nadunmadusanka564@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
 - [Twitter](https://twitter.com/your-profile)
 
-## 🚀 Projects
-
-### Project 1: [Project Name](https://github.com/NadunMN/project-name)
-- Brief description of what the project does and the technologies used.
-
-### Project 2: [Project Name](https://github.com/NadunMN/project-name)
-- Brief description of what the project does and the technologies used.
 
 ## 🤝 Contributions
 - Open source contributions and involvement in the community.
