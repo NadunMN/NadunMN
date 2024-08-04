@@ -4,10 +4,9 @@
 
 ## About Me
 
-I am Nadun Madusanka, a passionate developer with a keen interest in front-end technologies and cloud computing. I love creating efficient, scalable, and user-friendly applications.
+I am Nadun Madusanka, a passionate developer with a keen interest in front-end technologies, back-end and cloud computing. I love creating efficient, scalable, and user-friendly applications.
 
-- 💼 Currently working at [Your Company]
-- 🎓 Graduated from [Your University]
+- 🎓 Currently study at University of Colombo School of Computing
 - 🌱 Learning more about React, Node.js, and cloud platforms like AWS and Azure
 
 ## 🛠️ Skills
