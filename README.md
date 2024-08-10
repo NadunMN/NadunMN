@@ -48,11 +48,12 @@ I am Nadun Madusanka, a passionate developer with a keen interest in front-end t
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NadunMN&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="NadunMN's GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NadunMN&show_icons=true&hide_border=true&theme=radical" alt="Nadun's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadunMN&layout=compact&hide_border=true&theme=radical" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadunMN&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github.com/NadunMN/NadunMN/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ## 📫 How to Reach Me
