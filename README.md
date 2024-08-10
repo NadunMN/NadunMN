@@ -47,7 +47,7 @@ I am Nadun Madusanka, a passionate developer with a keen interest in front-end t
 
 ## 📈 GitHub Stats
 
-![Nadun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachithdh&show_icons=true&rank_icon=github&theme=transparent&hide=contribs,issues&count_private=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachithdh&layout=compact&theme=transparent)
+![Nadun's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadunMN&show_icons=true&rank_icon=github&theme=transparent&hide=contribs,issues&count_private=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadunMN&layout=compact&theme=transparent)
 
 ## 📫 How to Reach Me
 
