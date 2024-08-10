@@ -1,6 +1,8 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://your-link.com)
 
-# Hi there, I'm Nadun Madusanka 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nadun+Madusanka!;" />
+</h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NadunMN&style=for-the-badge)
 
@@ -45,18 +47,6 @@ I am Nadun Madusanka, a passionate developer with a keen interest in front-end t
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Master-green?style=for-the-badge" alt="Master Tag"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NadunMN&show_icons=true&hide_border=true&theme=radical" alt="Nadun's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadunMN&layout=compact&hide_border=true&theme=radical" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/NadunMN/NadunMN/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
 
 ## 📫 How to Reach Me
 
