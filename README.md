@@ -20,7 +20,7 @@ I am Nadun Madusanka, a passionate developer with a keen interest in front-end t
 ### Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,scala,html,css,javascript,mongodb,express,php,react,nodejs,mysql" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,scala,html,css,javascript,php" />
   </a>
 </p>
 <!-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -31,31 +31,41 @@ I am Nadun Madusanka, a passionate developer with a keen interest in front-end t
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white) -->
 
 ### Cloud Technologies
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure&perline=3)](https://skillicons.dev)
+<!-- ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white) -->
 
 ### Frameworks and Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs&perline=3)](https://skillicons.dev)
+<!--![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white) -->
 
 ### Design Tools
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+[![My Skills](https://skillicons.dev/icons?i=ai,ps,figma&perline=3)](https://skillicons.dev)
+<!--![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) -->
 
 ### Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=git,github&perline=3)](https://skillicons.dev)
+<!--![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)-->
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&perline=3)](https://skillicons.dev)
+<!--![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)-->
 
 ## 📈 GitHub Stats
+![Nadun's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadunMN&show_icons=true&rank_icon=github&theme=transparent&hide=contribs,issues&count_private=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadunMN&layout=compact&theme=transparent)
 
-<div align=center>
+
+<!--<div align="center">
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=NadunMN&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadunMN&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+</div>-->
 
 ## 🤝 Contributions
 - Open source contributions and involvement in the community.
