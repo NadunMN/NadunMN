@@ -30,31 +30,30 @@ I am Nadun Madusanka, a passionate developer with a keen interest in front-end t
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white) -->
 
-### Cloud Technologies
-[![My Skills](https://skillicons.dev/icons?i=aws,azure&perline=3)](https://skillicons.dev)
+### Others
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,react,nodejs,ai,ps,figma,git,github,mongodb,mysql)](https://skillicons.dev)
 <!-- ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white) -->
 
-### Frameworks and Libraries
+<!--### Frameworks and Libraries-->
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs&perline=3)](https://skillicons.dev)
+
 <!--![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white) -->
 
-### Design Tools
+<!--### Design Tools-->
 
-[![My Skills](https://skillicons.dev/icons?i=ai,ps,figma&perline=3)](https://skillicons.dev)
+
 <!--![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) -->
 
-### Version Control
-[![My Skills](https://skillicons.dev/icons?i=git,github&perline=3)](https://skillicons.dev)
+<!--### Version Control-->
+
 <!--![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)-->
 
-### Databases
+<!--### Databases-->
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql&perline=3)](https://skillicons.dev)
 <!--![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)-->
 
