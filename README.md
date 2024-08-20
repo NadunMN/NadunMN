@@ -18,9 +18,9 @@ I am Nadun Madusanka, a passionate developer with a keen interest in front-end t
 ## 🛠️ Skills
 
 ### Programming Languages
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,scala,html,css,javascript,mongodb,express,php,react,nodejs,mysql,dart,flutter,spring" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,scala,html,css,javascript,mongodb,express,php,react,nodejs,mysql" />
   </a>
 </p>
 <!-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
