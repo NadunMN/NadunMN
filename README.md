@@ -58,7 +58,6 @@ I am Nadun Madusanka, a passionate developer with a keen interest in front-end t
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)-->
 
 ## 📈 GitHub Stats
-[![Isuru's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isurunvn&theme=react-dark)](https://github.com/isurunvn/github-readme-activity-graph)
 
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=isurunvn&show_icons=true&rank_icon=github&theme=transparent&hide=contribs,issues&count_private=true&hide_border=true" alt="Isuru's GitHub stats" /> -->
