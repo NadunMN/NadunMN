@@ -59,7 +59,8 @@ I am Nadun Madusanka, a passionate developer with a keen interest in front-end t
 
 ## 📈 GitHub Stats
 
-<img src="https://myreadme.vercel.app/api/embed/NadunMN?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/NadunMN?panels=userstatistics,toplanguages,commitgraph&theme=dark" alt="reimaginedreadme" />
+
 
 
 
