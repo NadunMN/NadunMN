@@ -71,3 +71,7 @@ I am Nadun Madusanka, a passionate developer with a keen interest in front-end t
 ## 🤝 Contributions
 - Open source contributions and involvement in the community.
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you have any questions or collaborations in mind.
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
