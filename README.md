@@ -14,7 +14,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NadunMN&style=for-the-badge)
 
-## About Me
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.webp" alt="Pencil" width="25" height="25" align="center" /> About Me
 
 I am Nadun Madusanka, a passionate developer with a keen interest in front-end technologies, back-end, and cloud computing. I love creating efficient, scalable, and user-friendly applications.
 
@@ -23,7 +23,7 @@ I am Nadun Madusanka, a passionate developer with a keen interest in front-end t
 - 🎓 Currently studying at University of Colombo School of Computing
 - 🌱 Learning more about React, Node.js, and cloud platforms like AWS and Azure
 
-## 🛠️ Skills
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" alt="skill" width="25" height="25" align="center" /> Skills
 
 ### Programming Languages
 <p align="left">
@@ -65,7 +65,7 @@ I am Nadun Madusanka, a passionate developer with a keen interest in front-end t
 <!--![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)-->
 
-## 📈 GitHub Stats
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a8/512.webp" alt="Stat" width="25" height="25" align="center" /> GitHub Stats
 
 ![Nadun's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadunMN&show_icons=true&rank_icon=github&theme=transparent&hide=contribs,issues&count_private=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadunMN&layout=compact&theme=transparent)
 
