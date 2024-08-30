@@ -2,7 +2,7 @@
 
 <p align="center">
     <a>
-        <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8a4b55cd-d3f5-47c6-884c-3d542e1468e8/dfws9bm-b91fa877-a17c-46b1-a6db-a77a122c8139.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzhhNGI1NWNkLWQzZjUtNDdjNi04ODRjLTNkNTQyZTE0NjhlOFwvZGZ3czlibS1iOTFmYTg3Ny1hMTdjLTQ2YjEtYTZkYi1hNzdhMTIyYzgxMzkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ut5MdO-je95YZP4NyC41_p5d3is2t-oJHZgoSgDXmnA" width="200" height="200" alt="Description of the image">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDMweXJkOXM4c3FkdTU0YWNuNnBwdmNnMTlwNTJwZmlkdTYzNm1weCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CKwc8DrjB7KMJ3nZ21/giphy.webp" width="200" height="150" alt="Description of the image">
     </a>
 </p>
 
