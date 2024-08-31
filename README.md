@@ -1,11 +1,12 @@
-<!--[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://your-link.com)-->
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://your-link.com)
 
+<!--
 <p align="center">
     <a>
         <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDMweXJkOXM4c3FkdTU0YWNuNnBwdmNnMTlwNTJwZmlkdTYzNm1weCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CKwc8DrjB7KMJ3nZ21/giphy.webp" width="200" height="150" alt="Description of the image">
     </a>
 </p>
-
+-->
 
 
 <h1 align="center">
