@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://your-link.com)
+<!-- [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://your-link.com) -->
 
 <!--
 <p align="center">
@@ -8,10 +8,10 @@
 </p>
 -->
 
-
-<h1 align="center">
+## Hi+There!+👋;+I'm+Nadun+Madusanka!;
+<!-- <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nadun+Madusanka!;" />
-</h1>
+</h1> -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NadunMN&style=for-the-badge)
 
@@ -24,14 +24,14 @@ I am Nadun Madusanka, a passionate developer with a keen interest in front-end t
 - 🎓 Currently studying at University of Colombo School of Computing
 - 🌱 Learning more about React, Node.js, and cloud platforms like AWS and Azure
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" alt="skill" width="25" height="25" align="center" /> Skills
+<!-- ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" alt="skill" width="25" height="25" align="center" /> Skills
 
 ### Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,scala,html,css,javascript,php" />
   </a>
-</p>
+</p> -->
 <!-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,8 +39,8 @@ I am Nadun Madusanka, a passionate developer with a keen interest in front-end t
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white) -->
 
-### Others
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,react,nodejs,ai,ps,figma,git,github,mongodb,mysql)](https://skillicons.dev)
+<!-- ### Others
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,react,nodejs,ai,ps,figma,git,github,mongodb,mysql)](https://skillicons.dev) -->
 <!-- ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white) -->
 
