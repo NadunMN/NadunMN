@@ -70,9 +70,10 @@ I am Nadun Madusanka, a passionate developer with a keen interest in front-end t
 <!--## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a8/512.webp" alt="Stat" width="25" height="25" align="center" /> GitHub Stats-->
 ## GitHub Stats
 
-![Nadun's GitHub stats](https://github-readme-stats.vercel.app/api?username=NadunMN&show_icons=true&rank_icon=github&theme=transparent&hide=contribs,issues&count_private=true&hide_border=true&cache_seconds=1800)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadunMN&layout=compact&theme=transparent&border_color=00000000)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NadunMN&show_icons=true&rank_icon=github&theme=transparent&hide=contribs,issues&count_private=true&hide_border=true&cache_seconds=1800" alt="Nadun's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadunMN&layout=compact&theme=transparent&border_color=00000000" alt="Top Langs" />
+</div>
 
 
 <!--<div align="center">
