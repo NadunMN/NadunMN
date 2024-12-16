@@ -68,12 +68,12 @@ I am Nadun Madusanka, a passionate developer with a keen interest in front-end t
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)-->
 
 <!--## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a8/512.webp" alt="Stat" width="25" height="25" align="center" /> GitHub Stats-->
-## GitHub Stats
+<!--## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NadunMN&show_icons=true&rank_icon=github&theme=transparent&hide=contribs,issues&count_private=true&hide_border=true" alt="Nadun's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadunMN&layout=compact&theme=transparent&bg_color=00000000" alt="Top Langs" />
-</p>
+</p>-->
 
 
 
