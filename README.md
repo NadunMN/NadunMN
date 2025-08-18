@@ -13,7 +13,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nadun+Madusanka!;" />
 </h1> -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=NadunMN&style=for-the-badge)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=NadunMN&style=for-the-badge)->
 
 <!--## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.webp" alt="Pencil" width="25" height="25" align="center" /> About Me-->
 ## About Me
