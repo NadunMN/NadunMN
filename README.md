@@ -23,7 +23,6 @@ I am Nadun Madusanka, a passionate developer with a keen interest in front-end t
 
 
 - 🎓 Currently studying at University of Colombo School of Computing
-- 🌱 Learning more about React, Node.js, and cloud platforms like AWS and Azure
 
 <!-- ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" alt="skill" width="25" height="25" align="center" /> Skills
 
